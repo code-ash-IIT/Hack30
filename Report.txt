@@ -1,0 +1,14 @@
+Group: Hack Mercenaries
+
+Major Front End + Minor back end development Website created.
+
+HIGHLIGHTS of webpage:
+navbar, button links, image links, parallax effect bg, scrollable faqs, Live Covid-19 stats through APIs, team member social contacts in footer.
+
+content covered:
+- about covid
+- about covid vaccine
+- status of vaccines
+- covid case summary
+- world and India maps to lead to current stats
+- official who directions on symptoms and precautions.
